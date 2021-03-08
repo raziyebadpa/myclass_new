@@ -1,1 +1,2 @@
 # myclass_new
+hi
